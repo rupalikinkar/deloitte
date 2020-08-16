@@ -1,0 +1,39 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+h3, h4, h5 {
+  color: #4a47a3;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.white-section {
+  background-color: #fff;
+  padding: 3%;
+}
+
+.adjust-padding{
+    padding: 3%;
+}
+
+/* Left-Side */
+.input-group{
+  padding: 3%;
+}
+
+.card{
+  width: 12rem;
+  padding: 2%;
+}
+
+.card-padding{
+  padding: 2%;
+}
